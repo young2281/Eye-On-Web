@@ -52,7 +52,3 @@ Core Features
 -----
 
 🏃 Getting Started
-
-
-# Backend
-./gradlew bootRun
